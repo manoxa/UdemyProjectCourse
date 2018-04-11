@@ -1,6 +1,7 @@
 before_install:
-  - chmod +x mvnw
+  - chmod +x mvnw  
 language: 
   - java
 jdk:
-  - oraclejdk8  
+  - oraclejdk8
+dist: precise  
