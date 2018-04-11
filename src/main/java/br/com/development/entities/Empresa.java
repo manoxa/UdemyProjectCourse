@@ -1,4 +1,4 @@
-package com.kazale.api.entities;
+package br.com.development.entities;
 
 import java.io.Serializable;
 import java.util.Date;

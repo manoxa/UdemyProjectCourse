@@ -20,7 +20,7 @@ import javax.persistence.PrePersist;
 import javax.persistence.PreUpdate;
 import javax.persistence.Table;
 
-import com.kazale.api.entities.Empresa;
+import br.com.development.entities.Empresa;
 
 import br.com.development.enums.*;
 
